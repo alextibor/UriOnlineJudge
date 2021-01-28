@@ -1,0 +1,13 @@
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\bin\Debug\netcoreapp3.1\UriOlineJudge.exe
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\bin\Debug\netcoreapp3.1\UriOlineJudge.deps.json
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\bin\Debug\netcoreapp3.1\UriOlineJudge.runtimeconfig.json
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\bin\Debug\netcoreapp3.1\UriOlineJudge.runtimeconfig.dev.json
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\bin\Debug\netcoreapp3.1\UriOlineJudge.dll
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\bin\Debug\netcoreapp3.1\UriOlineJudge.pdb
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\obj\Debug\netcoreapp3.1\UriOlineJudge.AssemblyInfoInputs.cache
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\obj\Debug\netcoreapp3.1\UriOlineJudge.AssemblyInfo.cs
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\obj\Debug\netcoreapp3.1\UriOlineJudge.csproj.CoreCompileInputs.cache
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\obj\Debug\netcoreapp3.1\UriOlineJudge.dll
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\obj\Debug\netcoreapp3.1\UriOlineJudge.pdb
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\obj\Debug\netcoreapp3.1\UriOlineJudge.genruntimeconfig.cache
+C:\Users\Alex SegImob\Documents\Estudos\UriOnlineJudge\UriOlineJudge\obj\Debug\netcoreapp3.1\UriOlineJudge.csprojAssemblyReference.cache
