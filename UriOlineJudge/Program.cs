@@ -8,8 +8,8 @@ namespace cSharpTests
     {
         static void Main(string[] args)
         {
-            Uri1014 uri = new Uri1014();
-            uri.Consumo();
+            Uri1021 uri = new Uri1021();
+            uri.NotasEMoedas();
         }
     }
 }

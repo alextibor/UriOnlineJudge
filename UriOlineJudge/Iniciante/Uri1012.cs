@@ -18,7 +18,7 @@ namespace UriOlineJudge.Iniciante
             C = double.Parse(vet[2], CultureInfo.InvariantCulture);
 
             TRIANGULO = A * C;
-            CIRCULO = 3.14159 * C * C;
+            CIRCULO = pi * C * C;
             TRAPEZIO = (A + B) / 2.0 * C;
             QUADRADO = B * B;
             RETANGULO = A * B;

@@ -1,0 +1,341 @@
+﻿Exercícios propostos
+EXERCÍCIOS PROPOSTOS
+
+Caros estudantes, segue agora os exercícios do URI Online Judge que podem ser resolvidos com base no que aprendemos neste capítulo de estrutura condicional:
+
+Estudo mínimo recomendado:
+
+  - Primeiro grupo (mais básicos): 1035, 1038, 1044, 1046, 1048
+
+  - Segundo grupo: 1037, 1040 (use float), 1041, 1045, 1047, 1049, 1051
+
+
+
+Exercícios suplementares:
+
+  - 1042, 1043, 1050, 1052, 1060, 1064, 1065, 1066, 1070
+
+Soluções:
+
+https://github.com/acenelio/curso-logica-de-programacao-csharp
+
+Um grande abraço e bons estudos!
+
+Nelio
+
+
+
+REVISAR:  - 1018,
+
+
+
+Uri1000 - Done
+Uri1001 - Done
+Uri1002 - Done
+Uri1003 - Done
+Uri1004 - Done
+Uri1005 - Done
+Uri1006 - Done
+Uri1007 - Done
+Uri1008 - Done
+Uri1009 - Done
+Uri1010 - Done
+Uri1011 - Done
+Uri1012 - Done
+Uri1013 - Done
+Uri1014 - Done
+Uri1015 - Done
+Uri1016 - Done
+Uri1017 - Done
+Uri1018 - //REVISAR
+Uri1019 - Done
+Uri1020 - Done
+Uri1021 - //NÃO FEITO
+Uri1022 - 
+Uri1023
+Uri1024
+Uri1025
+Uri1026
+Uri1027
+Uri1028
+Uri1029
+Uri1030
+Uri1031
+Uri1032
+Uri1033
+Uri1034
+Uri1035
+Uri1036
+Uri1037
+Uri1038
+Uri1039
+Uri1040
+Uri1041
+Uri1042
+Uri1043
+Uri1044
+Uri1045
+Uri1046
+Uri1047
+Uri1048
+Uri1049
+Uri1050
+Uri1051
+Uri1052
+Uri1053
+Uri1054
+Uri1055
+Uri1056
+Uri1057
+Uri1058
+Uri1059
+Uri1060
+Uri1061
+Uri1062
+Uri1063
+Uri1064
+Uri1065
+Uri1066
+Uri1067
+Uri1068
+Uri1069
+Uri1070
+Uri1071
+Uri1072
+Uri1073
+Uri1074
+Uri1075
+Uri1076
+Uri1077
+Uri1078
+Uri1079
+Uri1080
+Uri1081
+Uri1082
+Uri1083
+Uri1084
+Uri1085
+Uri1086
+Uri1087
+Uri1088
+Uri1089
+Uri1090
+Uri1091
+Uri1092
+Uri1093
+Uri1094
+Uri1095
+Uri1096
+Uri1097
+Uri1098
+Uri1099
+Uri1100
+Uri1101
+Uri1102
+Uri1103
+Uri1104
+Uri1105
+Uri1106
+Uri1107
+Uri1108
+Uri1109
+Uri1110
+Uri1111
+Uri1112
+Uri1113
+Uri1114
+Uri1115
+Uri1116
+Uri1117
+Uri1118
+Uri1119
+Uri1120
+Uri1121
+Uri1122
+Uri1123
+Uri1124
+Uri1125
+Uri1126
+Uri1127
+Uri1128
+Uri1129
+Uri1130
+Uri1131
+Uri1132
+Uri1133
+Uri1134
+Uri1135
+Uri1136
+Uri1137
+Uri1138
+Uri1139
+Uri1140
+Uri1141
+Uri1142
+Uri1143
+Uri1144
+Uri1145
+Uri1146
+Uri1147
+Uri1148
+Uri1149
+Uri1150
+Uri1151
+Uri1152
+Uri1153
+Uri1154
+Uri1155
+Uri1156
+Uri1157
+Uri1158
+Uri1159
+Uri1160
+Uri1161
+Uri1162
+Uri1163
+Uri1164
+Uri1165
+Uri1166
+Uri1167
+Uri1168
+Uri1169
+Uri1170
+Uri1171
+Uri1172
+Uri1173
+Uri1174
+Uri1175
+Uri1176
+Uri1177
+Uri1178
+Uri1179
+Uri1180
+Uri1181
+Uri1182
+Uri1183
+Uri1184
+Uri1185
+Uri1186
+Uri1187
+Uri1188
+Uri1189
+Uri1190
+Uri1191
+Uri1192
+Uri1193
+Uri1194
+Uri1195
+Uri1196
+Uri1197
+Uri1198
+Uri1199
+Uri1200
+Uri1201
+Uri1202
+Uri1203
+Uri1204
+Uri1205
+Uri1206
+Uri1207
+Uri1208
+Uri1209
+Uri1210
+Uri1211
+Uri1212
+Uri1213
+Uri1214
+Uri1215
+Uri1216
+Uri1217
+Uri1218
+Uri1219
+Uri1220
+Uri1221
+Uri1222
+Uri1223
+Uri1224
+Uri1225
+Uri1226
+Uri1227
+Uri1228
+Uri1229
+Uri1230
+Uri1231
+Uri1232
+Uri1233
+Uri1234
+Uri1235
+Uri1236
+Uri1237
+Uri1238
+Uri1239
+Uri1240
+Uri1241
+Uri1242
+Uri1243
+Uri1244
+Uri1245
+Uri1246
+Uri1247
+Uri1248
+Uri1249
+Uri1250
+Uri1251
+Uri1252
+Uri1253
+Uri1254
+Uri1255
+Uri1256
+Uri1257
+Uri1258
+Uri1259
+Uri1260
+Uri1261
+Uri1262
+Uri1263
+Uri1264
+Uri1265
+Uri1266
+Uri1267
+Uri1268
+Uri1269
+Uri1270
+Uri1271
+Uri1272
+Uri1273
+Uri1274
+Uri1275
+Uri1276
+Uri1277
+Uri1278
+Uri1279
+Uri1280
+Uri1281
+Uri1282
+Uri1283
+Uri1284
+Uri1285
+Uri1286
+Uri1287
+Uri1288
+Uri1289
+Uri1290
+Uri1291
+Uri1292
+Uri1293
+Uri1294
+Uri1295
+Uri1296
+Uri1297
+Uri1298
+Uri1299
+Uri1300
+Uri1301
+Uri1302
+Uri1303
+Uri1304
+Uri1305
+Uri1306
+Uri1307
+Uri1308
+Uri1309
